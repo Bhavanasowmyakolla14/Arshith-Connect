@@ -1,0 +1,61 @@
+{
+  "conversations": [
+    {
+      "id": "7d61e24a-f95a-4512-82b3-f2e2a4d43c76",
+      "kind": "direct",
+      "direct_user_low": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "direct_user_high": "69591a17-3901-4419-89f4-3ba42f805cb6",
+      "name": null,
+      "description": null,
+      "image_path": null,
+      "created_by": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "created_at": "2026-11-20T05:17:29.633Z",
+      "updated_at": "2026-11-20T05:23:04.152Z",
+      "last_message_at": "2026-11-20T05:23:04.152Z",
+      "deleted_at": null
+    }
+  ],
+  "members": [
+    {
+      "conversation_id": "7d61e24a-f95a-4512-82b3-f2e2a4d43c76",
+      "user_id": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "added_by": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "joined_at": "2026-11-20T05:17:29.633Z"
+    },
+    {
+      "conversation_id": "7d61e24a-f95a-4512-82b3-f2e2a4d43c76",
+      "user_id": "69591a17-3901-4419-89f4-3ba42f805cb6",
+      "added_by": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "joined_at": "2026-11-20T05:17:29.633Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "8cb4bdd8-e262-4509-a319-c48407eaa1a6",
+      "conversation_id": "7d61e24a-f95a-4512-82b3-f2e2a4d43c76",
+      "sender_id": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "content": "Welcome to ARSHITH CONNECT!",
+      "created_at": "2026-11-20T05:17:29.773Z"
+    },
+    {
+      "id": "81152306-daa2-4ec2-8053-5e47f5924cdb",
+      "conversation_id": "7d61e24a-f95a-4512-82b3-f2e2a4d43c76",
+      "sender_id": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "content": "Automated test message for ARSHITH CONNECT platform.",
+      "created_at": "2026-11-20T05:23:04.152Z"
+    }
+  ],
+  "attachments": [],
+  "reads": [
+    {
+      "message_id": "8cb4bdd8-e262-4509-a319-c48407eaa1a6",
+      "user_id": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "read_at": "2026-11-20T05:17:29.773Z"
+    },
+    {
+      "message_id": "81152306-daa2-4ec2-8053-5e47f5924cdb",
+      "user_id": "0bf15b06-5372-4667-8af1-719efb2cd811",
+      "read_at": "2026-11-20T05:23:04.152Z"
+    }
+  ]
+}

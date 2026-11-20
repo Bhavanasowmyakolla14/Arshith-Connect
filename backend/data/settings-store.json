@@ -1,0 +1,39 @@
+{
+  "platform_name": "ARSHITH CONNECT",
+  "tagline": "One Platform. Every Connection.",
+  "organization_name": "Arshith Connect",
+  "industry": "Technology & Workplace Solutions",
+  "official_email": "admin@arshithconnect.com",
+  "contact_number": "+91 98765 43210",
+  "office_address": "Bangalore, India",
+  "website": "https://arshithconnect.com",
+  "work_start": "09:00",
+  "work_end": "18:00",
+  "workdays": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "time_zone": "Asia/Kolkata",
+  "selfie_required": true,
+  "allow_remote": true,
+  "late_threshold_minutes": 15,
+  "leave_categories": [
+    "Casual Leave",
+    "Sick Leave",
+    "Earned Leave",
+    "Other"
+  ],
+  "notifications": {
+    "announcements": true,
+    "leave_decisions": true,
+    "assignments": true,
+    "meetings": true,
+    "chat_messages": true,
+    "hourly_reminders": true
+  },
+  "updated_at": "2026-11-20T05:23:03.012Z",
+  "updated_by": "0bf15b06-5372-4667-8af1-719efb2cd811"
+}
